@@ -2,6 +2,7 @@
 
 ![erzen](https://user-images.githubusercontent.com/59092579/179573572-4da5803b-c332-4f7f-9bcd-0fbfeac8fe6a.gif)
 
+![Badge em Desenvolvimento](http://img.shields.io/static/v1?label=STATUS&message=Concluído&color=GREEN&style=for-the-badge)
 
 ## Descriçãozinha
 
